@@ -3,7 +3,7 @@
 using DocumentFormat.OpenXml.Packaging;
 using DocumentFormat.OpenXml.Wordprocessing;
 
-class Program2
+class teste
 {
     static void Principal(string[] args)
     {
